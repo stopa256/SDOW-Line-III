@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f55f1474c8e294997f158d1a88f7b9, type: 3}
+  m_Name: AndroidManifestDefinition
+  m_EditorClassIdentifier:
+  gpgsKey: 333115563912
+  pushwooshAppID: DECD7-19E8B
+  applovinSDKKey: qLNAv15_J2p7eTLGQ9gAmtFnzVO2qS6eoTphVugpxUxZ1GqSPVcAMtyKMLNBoTqZydFRVxERQA_RQqvrJW_gNy
+  isUsingCloudSave: 1
+  isUsingFacebook: 1
+  fbApplicationID: 1141391849313427
+  uniqueAppName: DancingLineAndroid
+  addMultiplayerAdditions: 0
+  host:
+  - PIayGa.me
+  - piayga.me
+  - GrabGa.me
+  - grabga.me
+  pathPrefix:
+  - birdclimb
+  - Birdclimb
+  minSdk: 15
+  targetSdk: 24

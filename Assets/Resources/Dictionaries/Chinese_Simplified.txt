@@ -1,0 +1,43 @@
+Language=简体中文
+GameTitle=SDOW Line III
+
+[Levels]
+Prelude=序幕
+NGGYU=Never Gonna Give You Up
+AoLiGei=加油，奥利给
+Abyss=深渊
+FadedO=Faded Original
+Marenol=Marenol - LeaF
+Ghost=亡灵之舞
+Mopemope=もぺもぺ - LeaF
+
+[SKINS]
+Normal=普通
+Pigeon=鸽子
+Crystal=破碎钻石
+Rubbish=垃圾
+
+[Settings]
+QUALITY=画质：
+POST PROCESSING=后期处理：
+CREDIT=制作人员
+On=开
+Off=关
+
+[UI]
+Skins=皮肤设置
+Release Log=更新日志
+MusicSynchro=音画同步
+Music Delay=音乐延迟
+ClearData=移除数据
+Journey=旅程
+Settings=设置
+Designer=作者：
+MusicAuthor=音乐作者：
+Revival=从检查点复活？
+Loading=加载中
+
+[Other]
+Delete Confirm=确定要删嘛?
+Delete=删
+No=爬

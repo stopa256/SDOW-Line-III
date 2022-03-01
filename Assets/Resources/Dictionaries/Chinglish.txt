@@ -1,0 +1,43 @@
+Language=Chinglish
+GameTitle=SDOW Line III
+
+[Levels]
+Prelude=The Xu Mu
+NGGYU=Never Give Up On You
+AoLiGei=Add Oil! Ao Li Gei
+Abyss=The ABaiSi
+FadedO=Yuan Zuo Xiao Shi
+Marenol=Scold People OL - GrasS
+Ghost=Ghost's Dance
+Mopemope=Mr.GrasS de Children's insoles
+
+[SKINS]
+Normal=Regular
+Pigeon=Pigee
+Crystal=PoSui Crystal
+Rubbish=LaJi Trash
+
+[Settings]
+QUALITY=Image Quality:
+POST PROCESSING=Back Process: 
+CREDIT=Maker
+On=On
+Off=Off
+
+[UI]
+Skins=Pifu
+Release Log=Update Text
+MusicSynchro=Music Image Same Step
+Music Delay=Sound Invoke
+ClearData=Clear Data
+Journey=Trip
+Settings=Settings
+Designer=Maker: 
+MusicAuthor=Music Maker: 
+Revival=Relife from Relife Point?
+Loading=Add Down Ing
+
+[Other]
+Delete Confirm= R U REALLY Wanna Delete?
+Delete=Sure Go Ahead
+No=F**K Off

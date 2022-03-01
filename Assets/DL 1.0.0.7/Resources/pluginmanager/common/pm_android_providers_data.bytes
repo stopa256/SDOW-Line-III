@@ -1,0 +1,16 @@
+System.Collections.Generic.List`1[PMProvider]
+IM,InMobi,AndroidInMobiProvider,never,ad,3,InMobi_interstitial_id,InMobi_video_id,InMobi_banner_id,0
+CB,ChartBoost,ChartBoostProvider,on_idle,ad,2,ChartBoost_appId,ChartBoost_appSignature,0
+AL,AppLovin,AndroidAppLovinProvider,never,ad,1,AppLovin_id,0
+AdMob,AdMob,AndroidAdMobProvider,on_idle,ad,4,AdMob_id,AdMob_interestitial_id,AdMob_banner_house_id,AdMob_interestitial_house_id,0
+AC,AdColony,AdColonyProvider,on_idle,ad,2,AdColony_id,AdColony_zone,0
+UA,UnityAds,UnityAdsProvider,on_idle,ad,1,UnityAds_GameID,0
+LB,Leadbolt,AndroidLeadboltProvider,never,ad,1,LeadboltID,0
+FB,FAN,FANProvider,on_idle,ad,2,fan_banner_id,fan_interstital_id,0
+NX,NativeX,NativeXProvider,never,ad,1,NativeX_id,0
+VU,Vungle,AndroidVungleProvider,never,ad,1,vungle_app_id,0
+TJ,Tapjoy,TapjoyProvider,on_idle,mix,1,Tapjoy_SDK_Key,1,TapJoy
+SS,Supersonic,SupersonicProvider,on_idle,ad,1,Supersonic_AppKey,0
+MB,Mediabrix,MediabrixProvider,never,ad,2,MediabrixAppId,MediabrixViewsIdentifier,0
+AF,AppsFlyer,AppsFlyerProvider,on_idle,utility,2,AppsFlyer_appId,AppsFlyer_devKey,0
+CPCB,CPChartBoost,CPChartBoostProvider,never,ad,0,0

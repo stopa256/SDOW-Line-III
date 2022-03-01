@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>debug</key>
+	<true/>
+	<key>PM_LOG_LEVEL</key>
+	<string>NORMAL</string>
+	<key>ChartBoost_appId</key>
+	<string>5191fe1517ba472d5a000000</string>
+	<key>ChartBoost_appSignature</key>
+	<string>84301b943e90c6adce44387cc4681b4a3740f91a</string>
+	<key>Flurry_appId</key>
+	<string>not_implemented_yet</string>
+	<key>Tapjoy_appId</key>
+	<string>not_implemented_yet</string>
+	<key>Tapjoy_secretKey</key>
+	<string>not_implemented_yet</string>
+	<key>PlayHaven_token</key>
+	<string>fe7fd8480235468e910e8ac7e16647c2</string>
+	<key>PlayHaven_secret</key>
+	<string>97fbc02bd0a0484199d445f8da6bebe5</string>
+	<key>isLandscape</key>
+	<false/>
+	<key>appId</key>
+	<string>623828173</string>
+	<key>xmlUpdateInterval_hours</key>
+	<integer>2</integer>
+	<key>xmlUrl</key>
+	<string>http://pluginmanagerconfigs.info/configs/ANDROID_SpaceFightFree</string>
+	<key>RevMob_id</key>
+	<string>50b5f191d714fa490a000048</string>
+	<key>AdMob_id</key>
+	<string>123</string>
+	<key>ftp_url</key>
+	<string>http://pluginmanagerconfigs.info/configs/</string>
+	<key>pushwoosh_name</key>
+	<string>Android test app</string>
+	<key>pushwoosh_id</key>
+	<string>C315F-A4DD8</string>
+	<key>leaderboardID_Baby</key>
+	<string>CgkInPn1uKEdEAIQAg</string>
+	<key>leaderboardID_Kids</key>
+	<string>CgkInPn1uKEdEAIQAQ</string>
+	<key>leaderboardID_Fun</key>
+	<string>CgkInPn1uKEdEAIQAw</string>
+	<key>leaderboardID_Normal</key>
+	<string>CgkInPn1uKEdEAIQAA</string>
+	<key>leaderboardID_Total</key>
+	<string>10710</string>
+	<key>inapp_FunMode</key>
+	<string>inApp1_E</string>
+	<key>inapp_BabyMode</key>
+	<string>inApp2_E</string>
+	<key>inapp_DeluxeMode</key>
+	<string>inApp3_E</string>
+	<key>inapp_KidsMode</key>
+	<string>inApp4_E</string>	
+	<key>MdotM_id</key>
+	<string>980a413399916af68295b8781ab7ba77</string>		
+	<key>MoPub_appid_Banners</key>
+	<string>76aae69980dd4e17a01435db5a65979d</string>
+	<key>MoPub_appid_Interestitials</key>
+	<string>60f88f219b25447b834a8a05e855e426</string>		
+	<key>Burstly_id</key>
+	<string>HRi-XaB410mpAPVYEKCWtA</string>
+	<key>Burstly_banner</key>
+	<string>0857174979122274912</string>
+	<key>Burstly_banner_big</key>
+	<string>0658174179122274912</string>
+	<key>Burstly_interestitial</key>
+	<string>0957174979122274912</string>				
+	<key>AppLovin_id</key>
+	<string>123</string>
+<key>Everbadge_id</key>
+<string>G3jGdwIKsFPfasE1nUYm1uKhgvgY46jwZ7CzmCq6k8E</string>				
+	<key>Google_PublicKey</key>
+	<string>123</string>			
+</dict>
+</plist>

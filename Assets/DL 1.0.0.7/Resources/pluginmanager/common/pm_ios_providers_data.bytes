@@ -1,0 +1,15 @@
+System.Collections.Generic.List`1[PMProvider]
+IM,InMobi,IOSInMobiProvider,on_idle,ad,4,InMobi_interstital_placement,InMobi_video_placement,InMobi_banner_placement,InMobi_id,0
+CB,ChartBoost,ChartBoostProvider,on_start,ad,2,ChartBoost_appId,ChartBoost_appSignature,0
+AdMob,AdMob,IOSAdMobProvider,on_idle,ad,2,AdMob_id,AdMob_interestitial_id,0
+AC,AdColony,AdColonyProvider,on_idle,ad,2,AdColony_id,AdColony_zone,0
+FB,FAN,FANProvider,on_idle,ad,2,fan_banner_id,fan_interstital_id,0
+NX,NativeX,NativeXProvider,on_idle,ad,1,NativeX_id,1,NT
+UA,UnityAds,UnityAdsProvider,on_idle,ad,1,UnityAds_GameID,0
+TJ,Tapjoy,TapjoyProvider,on_idle,mix,1,Tapjoy_SDK_Key,1,TapJoy
+GM,GrowMobile,IOSGrowMobileProvider,on_start,utility,2,GrowMobile_appKey,GrowMobile_appSecret,0
+fiksu,Fiksu,FiksuProvider,on_start,utility,0,0
+AF,AppsFlyer,AppsFlyerProvider,on_start,utility,2,AppsFlyer_appId,AppsFlyer_devKey,0
+MB,Mediabrix,MediabrixProvider,on_demand,ad,2,MediabrixAppId,MediabrixViewsIdentifier,0
+SS,Supersonic,SupersonicProvider,on_idle,ad,1,Supersonic_AppKey,0
+CPCB,CPChartBoost,CPChartBoostProvider,on_idle,ad,0,0

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>debug</key>
+	<string>false</string>
+	<key>PM_LOG_LEVEL</key>
+	<string>LOW</string>
+	<key>isLandscape</key>
+	<string>false</string>
+	<key>updatePopupOn</key>
+	<string>false</string>
+	<key>timeout</key>
+	<string>7</string>
+	<key>appId</key>
+	<string>com.cmplay.dancingline</string>
+	<key>xmlUpdateInterval_hours</key>
+	<integer>2</integer>
+	<key>xmlUrl</key>
+	<string>http://pluginmanagerconfig1.info/configs/CHEETAH_MOBILE/DancingLine_ANDROID/DancingLine_ANDROID</string>
+	<key>xmlUrlKindle</key>
+	<string>http://pluginmanagerconfig1.info/configs/CHEETAH_MOBILE/DancingLine_ANDROID/DancingLine_ANDROID</string>
+	<key>ftp_url</key>
+	<string>http://pluginmanagerconfig1.info/configs/</string>
+
+	<key>leaderboard_test</key>
+	<string>CgkI0fKKi4sXEAIQBg</string>
+
+	<key>test_achi_1</key>
+	<string>CgkI0fKKi4sXEAIQAQ</string>
+	<key>test_achi_2</key>
+	<string>CgkI0fKKi4sXEAIQAg</string>
+	<key>test_achi_3</key>
+	<string>CgkI0fKKi4sXEAIQAw</string>
+	<key>test_achi_4</key>
+	<string>CgkI0fKKi4sXEAIQBA</string>
+	<key>test_achi_5</key>
+	<string>CgkI0fKKi4sXEAIQBQ</string>
+	
+	<key>easyMode</key>
+	<string>test_iap1</string>
+	<key>bigDiamondPack</key>
+	<string>test_iap2</string>
+	<key>testIAP</key>
+	<string>test_iap3</string>
+	<key>smallDiamondPack</key>
+	<string>test_iap_4</string>
+
+	<key>ChartBoost_appId</key>
+	<string>582d4ff443150f04b4dfaa83</string>
+	<key>ChartBoost_appSignature</key>
+	<string>55ef4f1cf1594820e2fac34e99c9050c530bced1</string>
+	
+	<key>AdMob_id</key>
+	<string>ca-app-pub-6693792149034582~2083251756</string>
+	<key>AdMob_interestitial_id</key>
+	<string>ca-app-pub-6693792149034582/6513451352</string>
+	<key>AdMob_banner_house_id</key>
+	<string>123</string>
+	<key>AdMob_interestitial_house_id</key>
+	<string>123</string>
+	<key>AdMob_On</key>
+	<string>true</string>
+
+	<key>pushwoosh_name</key>
+	<string>Top Gear Parking</string>
+	<key>pushwoosh_id</key>
+	<string>679D7-3F47B</string>
+	
+	<key>AppLovin_id</key>
+	<string>qLNAv15_J2p7eTLGQ9gAmtFnzVO2qS6eoTphVugpxUxZ1GqSPVcAMtyKMLNBoTqZydFRVxERQA_RQqvrJW_gNy</string>
+	
+	<key>Google_PublicKey</key>
+	<string>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuly2RGJsOc5GUkNc36yTtpj/M9eCwPE1s4A14vX5p/HrNqBFXHe5wqa6wYUWUOFsUmZcZcuF6d1/C+8zvSVN6kHnPpYdw0g4pSNjovFlgiKWU2U/tTFGUbCD/1KsrVUay+Bo6lsr0jAEmZN2FTQ79oGrNfg/1b0k5i/NyUJQ8ooM26fMssPuo2b/rlz+44HdwXwegl5uzPCnWIrTBtzGYramqV0dDonywPO5vDdd9lIurrN5QsjUXw1UttOicIViN0BzZeQ9d4ozI9E1w87xDag+y0RuGsKJxJTu9GjihHGLrWIEwgRQ6jGAhSyTifInohTl70yLTWa5JNnQVg0prwIDAQAB</string>
+	
+	<key>AdColony_id</key>
+    <string>app0917604cb5184e13bd</string>
+
+    <key>AdColony_zone</key>
+    <string>vze017a9ba71a54688b5</string>
+    
+    <key>Supersonic_AppKey</key>
+	<string>598c2e3d</string>
+
+	<key>Facebook_displayName</key>
+	<string>Dancing Line</string>
+	<key>Facebook_appId</key>
+	<string>333062620238397</string>
+	
+	<key>vungle_app_id</key>
+	<string>5375e8370060b02c5f00002f</string>
+	
+	<key>fan_banner_id</key>
+	<string>123</string>
+	<key>fan_interstital_id</key>
+	<string>1141391849313427_1148171505302128</string>
+	
+	<key>NativeX_id</key>
+	<string>26442</string>
+	
+	<key>InMobi_interstitial_id</key>
+	<string>9b9dc319d1e74162b14a35e36b5ac28a</string>
+	<key>InMobi_video_id</key>
+	<string>4613b9e94d3344efbbc4e183a0b25c63</string>
+	<key>InMobi_banner_id</key>
+	<string>cf70a7218a8b4e1d9658c60903380a15</string>
+	
+	<key>Twitter_key</key>
+	<string>CygMukPBZd2q7OXgGTzy9z7i4</string>
+	<key>Twitter_secret</key>
+	<string>ajiI9rLl3LCjEFqeIFzKECyDNxoSAqCHuiw2n0kJ7iu93tAJSB</string>
+	<key>TwitterIntentName</key>
+	<string>com.aidemmedia.NewPluginManagerAmazon</string>
+	
+	<key>LeadboltID</key>
+	<string>xP5UBtPkW5tZXSBE73BjmIFVqRg6wMam</string>
+	
+	<key>AppsFlyer_appId</key>
+	<string>JS4D7K6orQauKANLStD2nb</string>
+	
+	<key>AppsFlyer_devKey</key>
+	<string>JS4D7K6orQauKANLStD2nb</string>
+	
+	<key>UnityAds_GameID</key>
+	<string>1202204</string>
+	
+	<key>GoogleTrackingID</key>
+	<string>UA-64498353-1</string>
+	
+	<key>unique_app_name</key>
+	<string>DancingLineAndroid</string>
+	
+	<key>Tapjoy_SDK_Key</key>
+	<string>2HE2TsNfQ4mGMvrvYdclbAECr3agT3dFduC9knAGXqX0A4ZZO0z3nw6N1Lb4</string>
+	
+	<key>MediabrixAppId</key>
+	<string>7YYiXMFu3c</string>
+	<key>MediabrixViewsIdentifier</key>
+	<string>Android_Rescue</string>
+	
+	<key>DL_BuyCubesInApp</key>
+	<string>com.cmplay.dancingline.extracubes</string>
+	<key>DL_RemoveAdsInApp</key>
+	<string>com.cmplay.dancingline.removeads</string>
+	<key>DL_InfinityCubesInApp</key>
+	<string>com.cmplay.dancingline.infinitecubes</string>
+	<key>DL_LevelUnlockInApp_Intro</key>
+	<string>123</string>
+	<key>DL_LevelUnlockInApp_Seasons</key>
+	<string>com.cmplay.dancingline.levelunlock01</string>
+	<key>DL_LevelUnlockInApp_Storm</key>
+	<string>com.cmplay.dancingline.levelunlock02</string>
+	<key>DL_LevelUnlockInApp_Desert</key>
+	<string>com.cmplay.dancingline.levelunlock03</string>
+	<key>DL_LevelUnlockInApp_Chaos</key>
+	<string>com.cmplay.dancingline.levelunlock04</string>
+	<key>DL_LevelUnlockInApp_Autumn</key>
+	<string>123</string>
+	<key>DL_LevelUnlockInApp_ComingSoon</key>
+	<string>123</string>
+	<key>DL_LevelUnlockInApp_Piano</key>
+	<string>com.cmplay.dancingline.levelunlock05</string>
+	
+	<key>DL_Completed_Intro</key>
+	<string>CgkIiL_w-dgJEAIQCQ</string>
+	<key>DL_AllCubes_Intro</key>
+	<string>123</string>
+	<key>DL_Completed_Seasons</key>
+	<string>CgkIiL_w-dgJEAIQAQ</string>
+	<key>DL_AllCubes_Seasons</key>
+	<string>CgkIiL_w-dgJEAIQAg</string>
+	<key>DL_Completed_Storm</key>
+	<string>CgkIiL_w-dgJEAIQAw</string>
+	<key>DL_AllCubes_Storm</key>
+	<string>CgkIiL_w-dgJEAIQBA</string>
+	<key>DL_Completed_Desert</key>
+	<string>CgkIiL_w-dgJEAIQBQ</string>
+	<key>DL_AllCubes_Desert</key>
+	<string>CgkIiL_w-dgJEAIQBg</string>
+	<key>DL_Completed_Chaos</key>
+	<string>CgkIiL_w-dgJEAIQBw</string>
+	<key>DL_AllCubes_Chaos</key>
+	<string>CgkIiL_w-dgJEAIQCA</string>
+	<key>DL_Completed_Autumn</key>
+	<string>123</string>
+	<key>DL_AllCubes_Autumn</key>
+	<string>123</string>
+	<key>DL_Completed_ComingSoon</key>
+	<string>123</string>
+	<key>DL_AllCubes_ComingSoon</key>
+	<string>123</string>
+	<key>DL_Completed_Piano</key>
+	<string>CgkIiL_w-dgJEAIQCg</string>
+	<key>DL_AllCubes_Piano</key>
+	<string>CgkIiL_w-dgJEAIQCw</string>
+</dict>
+</plist>

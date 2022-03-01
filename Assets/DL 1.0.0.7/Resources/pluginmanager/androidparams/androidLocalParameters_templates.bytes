@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>debug</key>
+	<true/>
+	<key>PM_LOG_LEVEL</key>
+	<string>NORMAL</string>
+
+	<key>ChartBoost_appId</key>
+	<string>54747c1d04b0167eaf504968</string>
+	<key>ChartBoost_appSignature</key>
+	<string>8fed3a922296b5fcb027d68231f899ce404d4d7c</string>
+	
+	<key>Tapjoy_appId</key>
+	<string>bca7c2e4-3efc-452c-9919-72ab22c27802</string>
+	<key>Tapjoy_secretKey</key>
+	<string>S7ucubJ5wFI6sNtVyfg5</string>	
+
+	<key>isLandscape</key>
+	<true/>
+	<key>updatePopupOn</key>
+	<false/>
+	<key>timeout</key>
+	<string>7</string>
+	<key>appId</key>
+	<string>com.playwithfriendsgames.TopGearParking</string>
+	<key>xmlUpdateInterval_hours</key>
+	<integer>2</integer>
+	<key>xmlUrl</key>
+	<string>http://pluginmanagerconfig1.info/configs/NewPluginManagerTest_ANDROID</string>
+	<key>xmlUrlKindle</key>
+	<string>http://pluginmanagerconfig1.info/configs/NewPluginManagerTest_ANDROID</string>
+	<key>AdMob_id</key>
+	<string>ca-app-pub-9826924005744879/8148188741</string>
+	<key>AdMob_interestitial_id</key>
+	<string>ca-app-pub-9826924005744879/9624921948</string>
+	<key>AdMob_banner_house_id</key>
+	<string>123</string>
+	<key>AdMob_interestitial_house_id</key>
+	<string>123</string>
+	<key>AdMob_On</key>
+	<string>true</string>
+
+	<key>ftp_url</key>
+	<string>http://pluginmanagerconfig1.info/configs/</string>
+	<key>pushwoosh_name</key>
+	<string>Top Gear Parking</string>
+	<key>pushwoosh_id</key>
+	<string>679D7-3F47B</string>
+	
+	<key>leaderboard_test</key>
+	<string>CgkI0fKKi4sXEAIQBg</string>
+
+	<key>test_achi_1</key>
+	<string>CgkI0fKKi4sXEAIQAQ</string>
+	
+	<key>easyMode</key>
+	<string>test_iap1</string>
+
+	
+	<key>AppLovin_id</key>
+	<string>3kDIVfGtlC2kGp8DObyNZf4zGePQ2DV5xkOQNeI6rKr58-JWZGv8wz5BcVbei5lep73BnMIch8iq60LgHFpCCv</string>
+
+	<key>Google_PublicKey</key>
+	<string>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlUa70uZTmc2cr7ivzowNpEkp+HWCsvATHgY74jMAE1kjXMXOIKDEvfy0iNX+7BdSW3QIbA8Xj5k5eWo4V7taODkzLaBdCSLOtMwKe6JQJq5+HvL+cmas0MSoiDkll0W+Nh2Z6U3yeYaJJSvQUxIctgguDhWOpxGz+6w6xhbG0Z70wFCw+UeQvKSjxH5MYlXD9Tdc+TPXGgSUaboLzk9TnohlAuDMS3DexNcsXEaxbRGSKGYBpy4NFM1YvKXQNwZUM4T8fqjoVOdKBBvVmBBW2DyOLLq1nKWeZSxwgpnJ8lXHF7jzkT0JHnLBj8TPqO4dSqWCiZbLMTDCrh31SsmCLQIDAQAB</string>
+	
+	<key>AdColony_id</key>
+	<string>appa60211e581c946299f</string>
+	<key>AdColony_zone</key>
+	<string>vz6d9cf884def7451487</string>
+
+	<key>Facebook_displayName</key>
+	<string>PluginManager TestProjeckt</string>
+	<key>Facebook_appId</key>
+	<string>1588857177996746</string>
+	
+	<key>vungle_app_id</key>
+	<string>5375e8370060b02c5f00002f</string>
+	
+	<key>fan_banner_id</key>
+	<string>123</string>
+	<key>fan_interstital_id</key>
+	<string>123</string>
+
+	<key>NativeX_id</key>
+	<string>26442</string>
+	
+	<key>InMobi_interstitial_id</key>
+	<string>9b9dc319d1e74162b14a35e36b5ac28a</string>
+	<key>InMobi_video_id</key>
+	<string>4613b9e94d3344efbbc4e183a0b25c63</string>
+	<key>InMobi_banner_id</key>
+	<string>cf70a7218a8b4e1d9658c60903380a15</string>
+	
+	<key>Twitter_key</key>
+	<string>CygMukPBZd2q7OXgGTzy9z7i4</string>
+	<key>Twitter_secret</key>
+	<string>ajiI9rLl3LCjEFqeIFzKECyDNxoSAqCHuiw2n0kJ7iu93tAJSB</string>
+	<key>TwitterIntentName</key>
+	<string>com.aidemmedia.NewPluginManagerAmazon</string>
+	
+	<key>LeadboltID</key>
+	<string>mf4OD8G8MxW5ky1sjtny8rlC6VIm8Vcy</string>
+	
+	<key>AppsFlyer_devKey</key>
+	<string>bpBJA6NWyHURMP6mJDyNqM</string>
+	
+	<key>UnityAds_GameID</key>
+	<string>131622230</string>
+	
+	<key>GoogleTrackingID</key>
+	<string>UA-64498353-1</string>
+</dict>
+</plist>

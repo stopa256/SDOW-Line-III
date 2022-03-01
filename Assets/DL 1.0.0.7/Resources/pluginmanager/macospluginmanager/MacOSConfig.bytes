@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debug</key>
+	<true/>
+	<key>PM_LOG_LEVEL</key>
+	<string>NORMAL</string>
+	<key>isLandscape</key>
+	<false/>
+	<key>xmlUpdateInterval_hours</key>
+	<integer>2</integer>
+	<key>appId</key>
+	<string>1234</string>
+	<key>unique_app_name</key>
+	<string>plugin_manager</string>
+	<key>xmlUrl</key>
+	<string>http://pluginmanagerconfig1.info/configs/TTest</string>
+	<key>ftp_url</key>
+	<string>http://pluginmanagerconfig1.info/configs/</string>
+	<key>updatePopupOn</key>
+	<true/>
+	<key>Facebook_appId</key>
+	<string>497294963625382</string> <!-- 497294963625382 prime, 651130754993635 new plugin manager -->
+	<key>Facebook_displayName</key>
+	<string>Facebook display name</string>
+	
+	<!-- just example below -->
+	<key>inapp_test</key>
+	<string>com.company.Game_inapp_test</string>
+	<key>leaderboard_test</key>
+	<string>com.company.Game_leaderboard_test</string>
+	<key>achievement_test</key>
+	<string>com.company.Game_achievement_test</string>
+</dict>
+</plist>

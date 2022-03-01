@@ -1,0 +1,43 @@
+Language=English英國歷史
+GameTitle=SDOW Line III
+
+[Levels]
+Prelude=Prelude
+NGGYU=Never Gonna Give You Up
+AoLiGei=AoLiGei
+Abyss=Abyss
+FadedO=Faded Original
+Marenol=Marenol - LeaF
+Ghost=Ghost Dance
+Mopemope=もぺもぺ - LeaF
+
+[SKINS]
+Normal=Normal
+Pigeon=Pigeon
+Crystal=Broken Gem
+Rubbish=Rubbish
+
+[Settings]
+QUALITY=Quality:
+POST PROCESSING=Post Processing: 
+CREDIT=Credit
+On=On
+Off=Off
+
+[UI]
+Skins=Skins
+Release Log=Release Log
+MusicSynchro=Music Synchro
+Music Delay=Music Delay
+ClearData=Clear Data
+Journey=Journey
+Settings=Settings
+Designer=Designer: 
+MusicAuthor=Music Author: 
+Revival=Revial from checkpoint?
+Loading=LOADING
+
+[Other]
+Delete Confirm= R U REALLY Wanna Delete?
+Delete=Sure Go Ahead
+No=F**K Off

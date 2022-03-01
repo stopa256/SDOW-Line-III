@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>debug</key>
+	<true/>
+	<key>PM_LOG_LEVEL</key>
+	<string>NORMAL</string>
+	<key>isLandscape</key>
+	<false/>
+	<key>xmlUpdateInterval_hours</key>
+	<integer>2</integer>
+	<key>appId</key>
+	<string>123</string>
+	<key>xmlUrl</key>
+	<string>http://pluginmanagerconfig1.info/configs/WSATest</string>
+	<key>ftp_url</key>
+	<string>http://pluginmanagerconfig1.info/configs/</string>
+	<key>updatePopupOn</key>
+	<true/>
+  <key>Smaato_pub</key>
+  <string>0</string>
+  <key>Smaato_adSpace_Interstitial</key>
+  <string>0</string>
+  <key>Smaato_adSpace_Banner</key>
+  <string>0</string>
+  <key>UniqueAppName</key>
+  <string>TestAppName</string>
+  <key>unique_app_name</key>
+  <string>TestAppName</string>
+	<key>Facebook_AppId</key>
+	<string>333062620238397</string>
+	<key>Facebook_AppName</key>
+	<string>Bird Climb</string>
+  <key>IAP_feature1</key>
+  <string>feature1</string>
+  <key>VungleID</key>
+  <string>56280a057264fd3868000162</string>
+  <key>Twitter_key</key>
+  <string>000000000000000</string>
+  <key>Twitter_secret</key>
+  <string>000000000000000</string>
+  <key>app_info_server</key>
+  <string>000000000000000</string>
+  <key>pushwoosh_id</key>
+  <string>000000000000000</string>
+</dict>
+</plist>
